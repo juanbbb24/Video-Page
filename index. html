@@ -20,6 +20,6 @@
     </style>
 </head>
 <body>
-    <video src="your-video-file.mp4" controls autoplay loop></video>
+    <video src="" controls autoplay loop></video>
 </body>
 </html>
